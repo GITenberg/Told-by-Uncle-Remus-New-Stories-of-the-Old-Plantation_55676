@@ -1,0 +1,41 @@
+_repo: Told-by-Uncle-Remus-New-Stories-of-the-Old-Plantation_55676
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Condé, J. M.
+    alias: Conde, J. M.
+    gutenberg_agent_id: '26466'
+    url: http://www.gutenberg.org/2009/agents/26466
+  - agent_name: Frost, A. B. (Arthur Burdett)
+    alias: Frost, Arthur Burdett
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '24799'
+    url: http://www.gutenberg.org/2009/agents/24799
+    wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
+  - agent_name: Uerbeck, Frank
+    gutenberg_agent_id: '48447'
+    url: http://www.gutenberg.org/2009/agents/48447
+creator:
+  author:
+    agent_name: Harris, Joel Chandler
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '868'
+    url: http://www.gutenberg.org/2009/agents/868
+    wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
+description: ''
+gutenberg_issued: '2017-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Told by Uncle Remus
+
+  New Stories of the Old Plantation'
+url: http://www.gutenberg.org/ebooks/55676
