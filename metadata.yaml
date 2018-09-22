@@ -16,6 +16,9 @@ contributor:
   - agent_name: Uerbeck, Frank
     gutenberg_agent_id: '48447'
     url: http://www.gutenberg.org/2009/agents/48447
+covers:
+- cover_type: archival
+  image_path: 55676-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Joel Chandler
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/868
     wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55676#Told-by-Uncle-Remus-New-Stories-of-the-Old-Plantation
 gutenberg_issued: '2017-10-03'
 gutenberg_type: Text
 identifiers:
